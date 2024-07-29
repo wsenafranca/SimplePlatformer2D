@@ -2,7 +2,7 @@
 A simple platform 2D project to study game's feature, 3D Modeling and animation.
 
 Controls:
-* Move: A/S (Hold)
+* Move: A/D (Hold)
 * Jump: Space (Hold)
 * Sprint: Shift (Hold)
 * Dash: Ctrl
